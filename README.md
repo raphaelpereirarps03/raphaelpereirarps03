@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 
 - 🌱 Atualmente estou aprendendo **.NET e C#**
 - 👯 Estou procurando aperfeiçoar minhas habilidades técnicas em **Desenvolvimento WEB**
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/raphael-pereira-108a41204)**
+- 📫 Como me encontrar: **[Raphael Pereira de Souza](https://www.linkedin.com/in/raphael-pereira-108a41204)**
 - ⚡ Fato curioso: **Apaixonado por programação**
 
 ## Minhas Habilidades
@@ -39,5 +39,5 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 
 ## Contato
 
-- LinkedIn: [Raphael Pereira de Souza](https://www.linkedin.com/in/raphael-pereira-108a41204)
-- Email: [raphaelpereira.rps1@gmail.com](mailto:raphaelpereira.rps1@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphael-pereira-108a41204)
+- [![Gmail](https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail)](mailto:raphaelpereira.rps1@gmail.com)
