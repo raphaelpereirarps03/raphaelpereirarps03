@@ -7,7 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encon
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **.NET e C#**
+- 🌱 Atualmente estou aprendendo **JAVA e REACT**
 - 👯 Estou procurando aperfeiçoar minhas habilidades técnicas em **Desenvolvimento WEB**
 - 📫 Como me encontrar: **[Raphael Pereira de Souza](https://www.linkedin.com/in/raphael-pereira-108a41204)**
 - ⚡ Fato curioso: **Apaixonado por programação**
